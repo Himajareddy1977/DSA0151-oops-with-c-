@@ -1,0 +1,14 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+	int r,l,b;
+	float pie=3.14;
+	cout<<"enter the radius";
+	cin>>r;
+	cout<<"the area of the circle:"<<(pie*r*r)<<endl;
+	cout<<"enter the lenth and breadth"<<endl;
+	cin>>l>>b;
+	cout<<"th area of the rectangle"<<(l*b)<<endl;
+}
+	
